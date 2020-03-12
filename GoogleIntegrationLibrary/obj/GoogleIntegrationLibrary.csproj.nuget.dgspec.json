@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "projectName": "GoogleIntegrationLibrary",
+        "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Google.Apis.Admin.Directory.directory_v1": {
+              "target": "Package",
+              "version": "[1.43.0.1736, )"
+            },
+            "Google.Apis.Classroom.v1": {
+              "target": "Package",
+              "version": "[1.43.0.1871, )"
+            },
+            "Google.Apis.CloudResourceManager.v1": {
+              "target": "Package",
+              "version": "[1.44.0.1873, )"
+            },
+            "Google.Apis.People.v1": {
+              "target": "Package",
+              "version": "[1.25.0.830, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

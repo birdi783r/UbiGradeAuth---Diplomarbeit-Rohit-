@@ -1,0 +1,478 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DocumentFormat.OpenXml/2.10.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
+        }
+      },
+      "Google.Apis/1.44.0": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis.Core": "1.44.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {}
+        }
+      },
+      "Google.Apis.Admin.Directory.directory_v1/1.43.0.1736": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis": "1.43.0",
+          "Google.Apis.Auth": "1.43.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.dll": {}
+        }
+      },
+      "Google.Apis.Auth/1.44.0": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Core": "1.44.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {},
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {},
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {}
+        }
+      },
+      "Google.Apis.Classroom.v1/1.43.0.1871": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis": "1.43.0",
+          "Google.Apis.Auth": "1.43.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Classroom.v1.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Classroom.v1.dll": {}
+        }
+      },
+      "Google.Apis.CloudResourceManager.v1/1.44.0.1873": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Auth": "1.44.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.dll": {}
+        }
+      },
+      "Google.Apis.Core/1.44.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {}
+        }
+      },
+      "Google.Apis.People.v1/1.25.0.830": {
+        "type": "package",
+        "dependencies": {
+          "Google.Apis": "1.25.0",
+          "Google.Apis.Auth": "1.25.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/Google.Apis.People.v1.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Google.Apis.People.v1.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.IO.Packaging.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentFormat.OpenXml/2.10.0": {
+      "sha512": "0FZij7iRHXUAM/gW3Y4bHdeZA11alYDfBy35t0F31qci4jRqqDDdpudVZQ0TkOu6IQyu+gTNoRpLfICDk14Ycw==",
+      "type": "package",
+      "path": "documentformat.openxml/2.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CodeSignSummary-84092b9d-9731-4b05-8c53-fecbc25470c8.md",
+        "documentformat.openxml.2.10.0.nupkg.sha512",
+        "documentformat.openxml.nuspec",
+        "icon.png",
+        "lib/net35/DocumentFormat.OpenXml.dll",
+        "lib/net35/DocumentFormat.OpenXml.xml",
+        "lib/net40/DocumentFormat.OpenXml.dll",
+        "lib/net40/DocumentFormat.OpenXml.xml",
+        "lib/net46/DocumentFormat.OpenXml.dll",
+        "lib/net46/DocumentFormat.OpenXml.xml",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.dll",
+        "lib/netstandard1.3/DocumentFormat.OpenXml.xml",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "lib/netstandard2.0/DocumentFormat.OpenXml.xml"
+      ]
+    },
+    "Google.Apis/1.44.0": {
+      "sha512": "8s0/UJWT/r7FEXObFTykRcmYauxU1Xi8IC3HHtYWRT9nUg51m1TjMMoLeBJUkuHw+O1y/Upkkj1ehJJea2naQg==",
+      "type": "package",
+      "path": "google.apis/1.44.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NuGetIcon.png",
+        "google.apis.1.44.0.nupkg.sha512",
+        "google.apis.nuspec",
+        "lib/net45/Google.Apis.PlatformServices.dll",
+        "lib/net45/Google.Apis.dll",
+        "lib/net45/Google.Apis.pdb",
+        "lib/net45/Google.Apis.xml",
+        "lib/netstandard1.3/Google.Apis.dll",
+        "lib/netstandard1.3/Google.Apis.pdb",
+        "lib/netstandard1.3/Google.Apis.xml",
+        "lib/netstandard2.0/Google.Apis.dll",
+        "lib/netstandard2.0/Google.Apis.pdb",
+        "lib/netstandard2.0/Google.Apis.xml"
+      ]
+    },
+    "Google.Apis.Admin.Directory.directory_v1/1.43.0.1736": {
+      "sha512": "wnx0Yj4do9auaFIDRvfz6pJZekDkgqigxdgWUC/fw/0Jz4ECmyyDO2k+fQnEjD6a5jga7uMCXrdJRoDlLr5tmg==",
+      "type": "package",
+      "path": "google.apis.admin.directory.directory_v1/1.43.0.1736",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "google.apis.admin.directory.directory_v1.1.43.0.1736.nupkg.sha512",
+        "google.apis.admin.directory.directory_v1.nuspec",
+        "lib/net40/Google.Apis.Admin.Directory.directory_v1.dll",
+        "lib/net40/Google.Apis.Admin.Directory.directory_v1.pdb",
+        "lib/net40/Google.Apis.Admin.Directory.directory_v1.xml",
+        "lib/net45/Google.Apis.Admin.Directory.directory_v1.dll",
+        "lib/net45/Google.Apis.Admin.Directory.directory_v1.pdb",
+        "lib/net45/Google.Apis.Admin.Directory.directory_v1.xml",
+        "lib/netstandard1.0/Google.Apis.Admin.Directory.directory_v1.dll",
+        "lib/netstandard1.0/Google.Apis.Admin.Directory.directory_v1.pdb",
+        "lib/netstandard1.0/Google.Apis.Admin.Directory.directory_v1.xml",
+        "lib/netstandard1.3/Google.Apis.Admin.Directory.directory_v1.dll",
+        "lib/netstandard1.3/Google.Apis.Admin.Directory.directory_v1.pdb",
+        "lib/netstandard1.3/Google.Apis.Admin.Directory.directory_v1.xml",
+        "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.dll",
+        "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.pdb",
+        "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.xml"
+      ]
+    },
+    "Google.Apis.Auth/1.44.0": {
+      "sha512": "DB8J2R0fOmX+Am8jMa03W2N1b//U3w4H4QuR3/CjnxuBTeJ42n5kO1EfEX7ikqItyPpC7e9MNLmYID05AwdgxA==",
+      "type": "package",
+      "path": "google.apis.auth/1.44.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NuGetIcon.png",
+        "google.apis.auth.1.44.0.nupkg.sha512",
+        "google.apis.auth.nuspec",
+        "lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "lib/net45/Google.Apis.Auth.dll",
+        "lib/net45/Google.Apis.Auth.pdb",
+        "lib/net45/Google.Apis.Auth.xml",
+        "lib/netstandard1.3/Google.Apis.Auth.PlatformServices.dll",
+        "lib/netstandard1.3/Google.Apis.Auth.dll",
+        "lib/netstandard1.3/Google.Apis.Auth.pdb",
+        "lib/netstandard1.3/Google.Apis.Auth.xml",
+        "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "lib/netstandard2.0/Google.Apis.Auth.dll",
+        "lib/netstandard2.0/Google.Apis.Auth.pdb",
+        "lib/netstandard2.0/Google.Apis.Auth.xml"
+      ]
+    },
+    "Google.Apis.Classroom.v1/1.43.0.1871": {
+      "sha512": "VJYyz6mumIgLdBQRFGVvTTQ0zPlzItSQDJkee8HJaORZzuFIQbMJmPpnLDIMq/Bdj69a9zAYkqR5hrtE6yCIOg==",
+      "type": "package",
+      "path": "google.apis.classroom.v1/1.43.0.1871",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "google.apis.classroom.v1.1.43.0.1871.nupkg.sha512",
+        "google.apis.classroom.v1.nuspec",
+        "lib/net40/Google.Apis.Classroom.v1.dll",
+        "lib/net40/Google.Apis.Classroom.v1.pdb",
+        "lib/net40/Google.Apis.Classroom.v1.xml",
+        "lib/net45/Google.Apis.Classroom.v1.dll",
+        "lib/net45/Google.Apis.Classroom.v1.pdb",
+        "lib/net45/Google.Apis.Classroom.v1.xml",
+        "lib/netstandard1.0/Google.Apis.Classroom.v1.dll",
+        "lib/netstandard1.0/Google.Apis.Classroom.v1.pdb",
+        "lib/netstandard1.0/Google.Apis.Classroom.v1.xml",
+        "lib/netstandard1.3/Google.Apis.Classroom.v1.dll",
+        "lib/netstandard1.3/Google.Apis.Classroom.v1.pdb",
+        "lib/netstandard1.3/Google.Apis.Classroom.v1.xml",
+        "lib/netstandard2.0/Google.Apis.Classroom.v1.dll",
+        "lib/netstandard2.0/Google.Apis.Classroom.v1.pdb",
+        "lib/netstandard2.0/Google.Apis.Classroom.v1.xml"
+      ]
+    },
+    "Google.Apis.CloudResourceManager.v1/1.44.0.1873": {
+      "sha512": "NGH7YeGKRqzoVaVMaPUK5aJfF4yw1ilOEdS9+80aJZlnXOAeTIJI56/QHulbkLMZoClirChh/3cpSlio/Y1Gww==",
+      "type": "package",
+      "path": "google.apis.cloudresourcemanager.v1/1.44.0.1873",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "google.apis.cloudresourcemanager.v1.1.44.0.1873.nupkg.sha512",
+        "google.apis.cloudresourcemanager.v1.nuspec",
+        "lib/net40/Google.Apis.CloudResourceManager.v1.dll",
+        "lib/net40/Google.Apis.CloudResourceManager.v1.pdb",
+        "lib/net40/Google.Apis.CloudResourceManager.v1.xml",
+        "lib/net45/Google.Apis.CloudResourceManager.v1.dll",
+        "lib/net45/Google.Apis.CloudResourceManager.v1.pdb",
+        "lib/net45/Google.Apis.CloudResourceManager.v1.xml",
+        "lib/netstandard1.0/Google.Apis.CloudResourceManager.v1.dll",
+        "lib/netstandard1.0/Google.Apis.CloudResourceManager.v1.pdb",
+        "lib/netstandard1.0/Google.Apis.CloudResourceManager.v1.xml",
+        "lib/netstandard1.3/Google.Apis.CloudResourceManager.v1.dll",
+        "lib/netstandard1.3/Google.Apis.CloudResourceManager.v1.pdb",
+        "lib/netstandard1.3/Google.Apis.CloudResourceManager.v1.xml",
+        "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.dll",
+        "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.pdb",
+        "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.xml"
+      ]
+    },
+    "Google.Apis.Core/1.44.0": {
+      "sha512": "cgpYSP+UCgdkt14qEiToHmurbAjqAfTyT/DcguqTwKNYlm90BRI3FS0soWm3ldIa5ckdrriPwcd1gStiXWSusQ==",
+      "type": "package",
+      "path": "google.apis.core/1.44.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NuGetIcon.png",
+        "google.apis.core.1.44.0.nupkg.sha512",
+        "google.apis.core.nuspec",
+        "lib/net45/Google.Apis.Core.dll",
+        "lib/net45/Google.Apis.Core.pdb",
+        "lib/net45/Google.Apis.Core.xml",
+        "lib/netstandard1.3/Google.Apis.Core.dll",
+        "lib/netstandard1.3/Google.Apis.Core.pdb",
+        "lib/netstandard1.3/Google.Apis.Core.xml",
+        "lib/netstandard2.0/Google.Apis.Core.dll",
+        "lib/netstandard2.0/Google.Apis.Core.pdb",
+        "lib/netstandard2.0/Google.Apis.Core.xml"
+      ]
+    },
+    "Google.Apis.People.v1/1.25.0.830": {
+      "sha512": "OrxbAG/VM/yHHc69hMG19ZyqnN3WBH0QxDIOYp5f7RH0jWSbMYjDPTrFFjAduhY8iB3c0xMnpBegUvxVjQ0j5Q==",
+      "type": "package",
+      "path": "google.apis.people.v1/1.25.0.830",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.apis.people.v1.1.25.0.830.nupkg.sha512",
+        "google.apis.people.v1.nuspec",
+        "lib/net45/Google.Apis.People.v1.dll",
+        "lib/net45/Google.Apis.People.v1.pdb",
+        "lib/net45/Google.Apis.People.v1.xml",
+        "lib/netstandard1.3/Google.Apis.People.v1.dll",
+        "lib/netstandard1.3/Google.Apis.People.v1.pdb",
+        "lib/netstandard1.3/Google.Apis.People.v1.xml",
+        "lib/portable-net40+sl50+netcore45+wpa81+wp8/Google.Apis.People.v1.dll",
+        "lib/portable-net40+sl50+netcore45+wpa81+wp8/Google.Apis.People.v1.pdb",
+        "lib/portable-net40+sl50+netcore45+wpa81+wp8/Google.Apis.People.v1.xml",
+        "lib/portable-net45+netcore45+wpa81+wp8/Google.Apis.People.v1.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8/Google.Apis.People.v1.pdb",
+        "lib/portable-net45+netcore45+wpa81+wp8/Google.Apis.People.v1.xml"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "System.IO.Packaging/4.7.0": {
+      "sha512": "9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "type": "package",
+      "path": "system.io.packaging/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net46/System.IO.Packaging.dll",
+        "lib/net46/System.IO.Packaging.xml",
+        "lib/netstandard1.3/System.IO.Packaging.dll",
+        "lib/netstandard1.3/System.IO.Packaging.xml",
+        "lib/netstandard2.0/System.IO.Packaging.dll",
+        "lib/netstandard2.0/System.IO.Packaging.xml",
+        "ref/net46/System.IO.Packaging.dll",
+        "ref/net46/System.IO.Packaging.xml",
+        "ref/netstandard1.3/System.IO.Packaging.dll",
+        "ref/netstandard1.3/System.IO.Packaging.xml",
+        "ref/netstandard2.0/System.IO.Packaging.dll",
+        "ref/netstandard2.0/System.IO.Packaging.xml",
+        "system.io.packaging.4.7.0.nupkg.sha512",
+        "system.io.packaging.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "DocumentFormat.OpenXml >= 2.10.0",
+      "Google.Apis.Admin.Directory.directory_v1 >= 1.43.0.1736",
+      "Google.Apis.Classroom.v1 >= 1.43.0.1871",
+      "Google.Apis.CloudResourceManager.v1 >= 1.44.0.1873",
+      "Google.Apis.People.v1 >= 1.25.0.830"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rohit\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+      "projectName": "GoogleIntegrationLibrary",
+      "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+      "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "DocumentFormat.OpenXml": {
+            "target": "Package",
+            "version": "[2.10.0, )"
+          },
+          "Google.Apis.Admin.Directory.directory_v1": {
+            "target": "Package",
+            "version": "[1.43.0.1736, )"
+          },
+          "Google.Apis.Classroom.v1": {
+            "target": "Package",
+            "version": "[1.43.0.1871, )"
+          },
+          "Google.Apis.CloudResourceManager.v1": {
+            "target": "Package",
+            "version": "[1.44.0.1873, )"
+          },
+          "Google.Apis.People.v1": {
+            "target": "Package",
+            "version": "[1.25.0.830, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

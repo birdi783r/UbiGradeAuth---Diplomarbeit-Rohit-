@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.10.0" />
+    <PackageReference Include="Google.Apis.Admin.Directory.directory_v1" Version="1.43.0.1736" />
+    <PackageReference Include="Google.Apis.Classroom.v1" Version="1.43.0.1871" />
+    <PackageReference Include="Google.Apis.CloudResourceManager.v1" Version="1.44.0.1873" />
+    <PackageReference Include="Google.Apis.People.v1" Version="1.25.0.830" />
+  </ItemGroup>
+
+</Project>

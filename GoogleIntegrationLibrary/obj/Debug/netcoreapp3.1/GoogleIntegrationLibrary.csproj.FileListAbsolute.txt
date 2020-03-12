@@ -1,0 +1,5 @@
+C:\Users\rohit\Desktop\kerer_freigabe_23022020\kerer_freigabe\GoogleIntegrationLibrary\bin\Debug\netcoreapp3.1\GoogleIntegrationLibrary.deps.json
+C:\Users\rohit\Desktop\kerer_freigabe_23022020\kerer_freigabe\GoogleIntegrationLibrary\bin\Debug\netcoreapp3.1\GoogleIntegrationLibrary.dll
+C:\Users\rohit\Desktop\kerer_freigabe_23022020\kerer_freigabe\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.1\GoogleIntegrationLibrary.csprojAssemblyReference.cache
+C:\Users\rohit\Desktop\kerer_freigabe_23022020\kerer_freigabe\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.1\GoogleIntegrationLibrary.AssemblyInfoInputs.cache
+C:\Users\rohit\Desktop\kerer_freigabe_23022020\kerer_freigabe\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.1\GoogleIntegrationLibrary.AssemblyInfo.cs
