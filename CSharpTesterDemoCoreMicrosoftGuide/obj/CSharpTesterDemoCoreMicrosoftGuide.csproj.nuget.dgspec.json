@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj": {}
+    "C:\\Projekte\\Ubi\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj": {
+    "C:\\Projekte\\Ubi\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj",
+        "projectUniqueName": "C:\\Projekte\\Ubi\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj",
         "projectName": "CSharpTesterDemoCoreMicrosoftGuide",
-        "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj",
+        "projectPath": "C:\\Projekte\\Ubi\\CSharpTesterDemoCoreMicrosoftGuide\\CSharpTesterDemoCoreMicrosoftGuide.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\CSharpTesterDemoCoreMicrosoftGuide\\obj\\",
+        "outputPath": "C:\\Projekte\\Ubi\\CSharpTesterDemoCoreMicrosoftGuide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
-                "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
+              "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+                "projectPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
               }
             }
           }
@@ -110,6 +110,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -118,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+    "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "projectUniqueName": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
         "projectName": "GoogleIntegrationLibrary",
-        "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "projectPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\obj\\",
+        "outputPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -197,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

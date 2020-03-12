@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {}
+    "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+    "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "projectUniqueName": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
         "projectName": "GoogleIntegrationLibrary",
-        "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
+        "projectPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\obj\\",
+        "outputPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

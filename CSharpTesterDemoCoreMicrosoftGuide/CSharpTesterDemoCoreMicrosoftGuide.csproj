@@ -5,6 +5,12 @@
     <UserSecretsId>aspnet-CSharpTesterDemoCoreMicrosoftGuide-5060EE29-138E-4A97-91DD-E7DBD2AFB238</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="..\..\..\UbiGradeAuth - Diplomarbeit%2528Rohit%2529 05 03 2020\UbiGradeAuth - Diplomarbeit%2528Rohit%2529\CSharpTesterDemoCoreMicrosoftGuide\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <Content Include="..\..\..\UbiGradeAuth - Diplomarbeit%2528Rohit%2529 05 03 2020\UbiGradeAuth - Diplomarbeit%2528Rohit%2529\CSharpTesterDemoCoreMicrosoftGuide\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <Content Include="..\..\..\UbiGradeAuth - Diplomarbeit%2528Rohit%2529 05 03 2020\UbiGradeAuth - Diplomarbeit%2528Rohit%2529\CSharpTesterDemoCoreMicrosoftGuide\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Google.Apis.Admin.Directory.directory_v1" Version="1.43.0.1736" />

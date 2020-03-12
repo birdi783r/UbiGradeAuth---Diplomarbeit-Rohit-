@@ -417,11 +417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
+      "projectUniqueName": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
       "projectName": "TestingGoogleAccessCode",
-      "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
+      "projectPath": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\TestingGoogleAccessCode\\obj\\",
+      "outputPath": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -442,8 +442,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
-              "projectPath": "C:\\Users\\rohit\\Desktop\\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\\UbiGradeAuth - Diplomarbeit(Rohit)\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
+            "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+              "projectPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
             }
           }
         }
@@ -471,7 +471,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

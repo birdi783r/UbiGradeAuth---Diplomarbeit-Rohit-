@@ -66,3 +66,28 @@ C:\Users\rohit\Desktop\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\UbiGradeAut
 C:\Users\rohit\Desktop\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\UbiGradeAuth - Diplomarbeit(Rohit)\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.csproj.CopyComplete
 C:\Users\rohit\Desktop\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\UbiGradeAuth - Diplomarbeit(Rohit)\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.dll
 C:\Users\rohit\Desktop\UbiGradeAuth - Diplomarbeit(Rohit) 05 03 2020\UbiGradeAuth - Diplomarbeit(Rohit)\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.pdb
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.exe
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.deps.json
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.runtimeconfig.json
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.runtimeconfig.dev.json
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\TestingGoogleAccessCode.pdb
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.Classroom.v1.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.CloudResourceManager.v1.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Google.Apis.People.v1.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\GoogleIntegrationLibrary.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\bin\Debug\netcoreapp3.1\GoogleIntegrationLibrary.pdb
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.csprojAssemblyReference.cache
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.AssemblyInfoInputs.cache
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.AssemblyInfo.cs
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.csproj.CopyComplete
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.dll
+C:\Projekte\Ubi\TestingGoogleAccessCode\obj\Debug\netcoreapp3.1\TestingGoogleAccessCode.pdb

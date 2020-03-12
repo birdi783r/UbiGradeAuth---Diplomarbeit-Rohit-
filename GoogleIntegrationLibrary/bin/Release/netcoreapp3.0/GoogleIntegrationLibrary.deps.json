@@ -1,0 +1,213 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GoogleIntegrationLibrary/1.0.0": {
+        "dependencies": {
+          "DocumentFormat.OpenXml": "2.10.0",
+          "Google.Apis.Admin.Directory.directory_v1": "1.43.0.1736",
+          "Google.Apis.Classroom.v1": "1.43.0.1871",
+          "Google.Apis.CloudResourceManager.v1": "1.44.0.1873",
+          "Google.Apis.People.v1": "1.25.0.830"
+        },
+        "runtime": {
+          "GoogleIntegrationLibrary.dll": {}
+        }
+      },
+      "DocumentFormat.OpenXml/2.10.0": {
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.10.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "Google.Apis/1.44.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.44.0.0",
+            "fileVersion": "1.44.0.0"
+          }
+        }
+      },
+      "Google.Apis.Admin.Directory.directory_v1/1.43.0.1736": {
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Auth": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Admin.Directory.directory_v1.dll": {
+            "assemblyVersion": "1.43.0.1736",
+            "fileVersion": "1.43.0.1736"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.44.0": {
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Core": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.44.0.0",
+            "fileVersion": "1.44.0.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.44.0.0",
+            "fileVersion": "1.44.0.0"
+          }
+        }
+      },
+      "Google.Apis.Classroom.v1/1.43.0.1871": {
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Auth": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Classroom.v1.dll": {
+            "assemblyVersion": "1.43.0.1871",
+            "fileVersion": "1.43.0.1871"
+          }
+        }
+      },
+      "Google.Apis.CloudResourceManager.v1/1.44.0.1873": {
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Auth": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.CloudResourceManager.v1.dll": {
+            "assemblyVersion": "1.44.0.1873",
+            "fileVersion": "1.44.0.1873"
+          }
+        }
+      },
+      "Google.Apis.Core/1.44.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.44.0.0",
+            "fileVersion": "1.44.0.0"
+          }
+        }
+      },
+      "Google.Apis.People.v1/1.25.0.830": {
+        "dependencies": {
+          "Google.Apis": "1.44.0",
+          "Google.Apis.Auth": "1.44.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Google.Apis.People.v1.dll": {
+            "assemblyVersion": "1.25.0.830",
+            "fileVersion": "1.25.0.830"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoogleIntegrationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0FZij7iRHXUAM/gW3Y4bHdeZA11alYDfBy35t0F31qci4jRqqDDdpudVZQ0TkOu6IQyu+gTNoRpLfICDk14Ycw==",
+      "path": "documentformat.openxml/2.10.0",
+      "hashPath": "documentformat.openxml.2.10.0.nupkg.sha512"
+    },
+    "Google.Apis/1.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8s0/UJWT/r7FEXObFTykRcmYauxU1Xi8IC3HHtYWRT9nUg51m1TjMMoLeBJUkuHw+O1y/Upkkj1ehJJea2naQg==",
+      "path": "google.apis/1.44.0",
+      "hashPath": "google.apis.1.44.0.nupkg.sha512"
+    },
+    "Google.Apis.Admin.Directory.directory_v1/1.43.0.1736": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wnx0Yj4do9auaFIDRvfz6pJZekDkgqigxdgWUC/fw/0Jz4ECmyyDO2k+fQnEjD6a5jga7uMCXrdJRoDlLr5tmg==",
+      "path": "google.apis.admin.directory.directory_v1/1.43.0.1736",
+      "hashPath": "google.apis.admin.directory.directory_v1.1.43.0.1736.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DB8J2R0fOmX+Am8jMa03W2N1b//U3w4H4QuR3/CjnxuBTeJ42n5kO1EfEX7ikqItyPpC7e9MNLmYID05AwdgxA==",
+      "path": "google.apis.auth/1.44.0",
+      "hashPath": "google.apis.auth.1.44.0.nupkg.sha512"
+    },
+    "Google.Apis.Classroom.v1/1.43.0.1871": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VJYyz6mumIgLdBQRFGVvTTQ0zPlzItSQDJkee8HJaORZzuFIQbMJmPpnLDIMq/Bdj69a9zAYkqR5hrtE6yCIOg==",
+      "path": "google.apis.classroom.v1/1.43.0.1871",
+      "hashPath": "google.apis.classroom.v1.1.43.0.1871.nupkg.sha512"
+    },
+    "Google.Apis.CloudResourceManager.v1/1.44.0.1873": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NGH7YeGKRqzoVaVMaPUK5aJfF4yw1ilOEdS9+80aJZlnXOAeTIJI56/QHulbkLMZoClirChh/3cpSlio/Y1Gww==",
+      "path": "google.apis.cloudresourcemanager.v1/1.44.0.1873",
+      "hashPath": "google.apis.cloudresourcemanager.v1.1.44.0.1873.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cgpYSP+UCgdkt14qEiToHmurbAjqAfTyT/DcguqTwKNYlm90BRI3FS0soWm3ldIa5ckdrriPwcd1gStiXWSusQ==",
+      "path": "google.apis.core/1.44.0",
+      "hashPath": "google.apis.core.1.44.0.nupkg.sha512"
+    },
+    "Google.Apis.People.v1/1.25.0.830": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OrxbAG/VM/yHHc69hMG19ZyqnN3WBH0QxDIOYp5f7RH0jWSbMYjDPTrFFjAduhY8iB3c0xMnpBegUvxVjQ0j5Q==",
+      "path": "google.apis.people.v1/1.25.0.830",
+      "hashPath": "google.apis.people.v1.1.25.0.830.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "path": "system.io.packaging/4.7.0",
+      "hashPath": "system.io.packaging.4.7.0.nupkg.sha512"
+    }
+  }
+}
