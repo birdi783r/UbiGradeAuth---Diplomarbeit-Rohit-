@@ -51,7 +51,7 @@ namespace CSharpTesterDemoCoreMicrosoftGuide
 "https://www.googleapis.com/auth/cloudplatformorganizations",
 "https://www.googleapis.com/auth/cloudplatformorganizations.readonly"
             };
-
+//
         public const string UserIdFieldName = ProviderName + "_userid";
         public const string AccessTokenFieldName = ProviderName + "_access_token";
         public const string TokenIssuedFieldName = ProviderName + "_issued_utc";

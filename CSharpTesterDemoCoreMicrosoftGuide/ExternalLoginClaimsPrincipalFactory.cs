@@ -13,7 +13,7 @@ namespace CSharpTesterDemoCoreMicrosoftGuide
         public ExternalLoginClaimsPrincipalFactory(
             UserManager<IdentityUser> userManager, 
             IOptions<IdentityOptions> optionsAccessor) : base(userManager, optionsAccessor)
-        {
+        {//
         }
 
         protected async override Task<ClaimsIdentity> GenerateClaimsAsync(IdentityUser user)
