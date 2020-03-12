@@ -15,6 +15,7 @@ namespace GoogleIntegrationLibrary.GoogleAccess
 
         public static UserCredential CreateCredential(TokenResponse token)
         {
+
             var initializer = new GoogleAuthorizationCodeFlow.Initializer
             {
                 ClientSecrets = new ClientSecrets
