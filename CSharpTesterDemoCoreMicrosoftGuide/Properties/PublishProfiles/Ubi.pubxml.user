@@ -6,11 +6,11 @@ indem Sie diese MSBuild-Datei bearbeiten. Weitere Informationen hierzu finden Si
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\www\ubi</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\www\ubigrade</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <DestinationConnectionStrings Include="DefaultConnection">
-      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=ubigradeDB%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=UBIGRADEApplication1%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
     </DestinationConnectionStrings>
   </ItemGroup>
 </Project>

@@ -411,26 +411,23 @@
   },
   "packageFolders": {
     "C:\\Users\\rohit\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
+      "projectUniqueName": "C:\\Users\\rohit\\Source\\Repos\\birdi783r\\UbiGradeAuth---Diplomarbeit-Rohit-\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
       "projectName": "TestingGoogleAccessCode",
-      "projectPath": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
+      "projectPath": "C:\\Users\\rohit\\Source\\Repos\\birdi783r\\UbiGradeAuth---Diplomarbeit-Rohit-\\TestingGoogleAccessCode\\TestingGoogleAccessCode.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekte\\Ubi\\TestingGoogleAccessCode\\obj\\",
+      "outputPath": "C:\\Users\\rohit\\Source\\Repos\\birdi783r\\UbiGradeAuth---Diplomarbeit-Rohit-\\TestingGoogleAccessCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -442,8 +439,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
-              "projectPath": "C:\\Projekte\\Ubi\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
+            "C:\\Users\\rohit\\Source\\Repos\\birdi783r\\UbiGradeAuth---Diplomarbeit-Rohit-\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj": {
+              "projectPath": "C:\\Users\\rohit\\Source\\Repos\\birdi783r\\UbiGradeAuth---Diplomarbeit-Rohit-\\GoogleIntegrationLibrary\\GoogleIntegrationLibrary.csproj"
             }
           }
         }
@@ -471,7 +468,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

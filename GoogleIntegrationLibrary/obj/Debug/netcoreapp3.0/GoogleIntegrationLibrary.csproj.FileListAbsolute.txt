@@ -29,3 +29,11 @@ C:\Projekte\Ubi\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrati
 C:\Projekte\Ubi\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.AssemblyInfo.cs
 C:\Projekte\Ubi\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.dll
 C:\Projekte\Ubi\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.pdb
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\bin\Debug\netcoreapp3.0\GoogleIntegrationLibrary.deps.json
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\bin\Debug\netcoreapp3.0\GoogleIntegrationLibrary.dll
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\bin\Debug\netcoreapp3.0\GoogleIntegrationLibrary.pdb
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.csprojAssemblyReference.cache
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.AssemblyInfoInputs.cache
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.AssemblyInfo.cs
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.dll
+C:\Users\rohit\Source\Repos\birdi783r\UbiGradeAuth---Diplomarbeit-Rohit-\GoogleIntegrationLibrary\obj\Debug\netcoreapp3.0\GoogleIntegrationLibrary.pdb
